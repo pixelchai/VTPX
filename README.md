@@ -17,6 +17,7 @@
 - [x] Make a basic marking system
 - [x] Interpret answers with not enough arguments
 - [ ] An update is available notification
+- [ ] Ignore spaces
 
 ##Releases
 ```
