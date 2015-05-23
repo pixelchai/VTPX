@@ -26,3 +26,11 @@
  "Stable" means that the release is fully done :)
  I recommend using the latest release
  ```
+ 
+##Requirements
+|| OS|  Framework|Screen Resolution
+| :---------| :-------------:|:---------:|:------:|
+| Minimum| MS-DOS| .net framework 4.0|-
+|Not Bad| Ubuntu|.net framework 4.5|9:5
+| Average| Windows 2000|.net framework 4.5.1| 4:3
+| Nice| Windows vista+|.net framework 4.5.1+|16:9
