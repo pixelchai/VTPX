@@ -19,8 +19,10 @@
 - [ ] An update is available notification
 
 ##Releases
+```
  All the releases can be found here on GitHub.
  "Unstable" means that the release is not fully done,
  you can still use it if you want - even if it may not work
  "Stable" means that the release is fully done :)
- I recommend using the latest release because
+ I recommend using the latest release
+ ```
