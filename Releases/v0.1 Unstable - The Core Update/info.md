@@ -27,7 +27,7 @@ Test the features!
 For now, it only has 1 question - which is "Translate: love/like"
 (the answer is amo, amare, amavi, amatum by the way)
 
-## Here's the output if you enter the folowing things:
+## Here's the output if you enter the following things:
 ### Amo, Amare, Amavi, Amatum
 ```
 Hello World! 
