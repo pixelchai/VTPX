@@ -11,7 +11,7 @@ It appears to be just a terminal with the lines of text
 and
 "Translate: love/like"
 
-Of course, the finished VTPX will look absolutely nothing like this
+Of course, the finished VTPX will look absolutely nothing like this.
 By the way - it only says "Hello World!" because that was a test.
 I've decided to keep it there :)
 
