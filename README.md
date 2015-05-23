@@ -31,6 +31,6 @@
 || OS|  Framework|Screen Resolution
 | :---------| :-------------:|:---------:|:------:|
 | Minimum| MS-DOS| .net framework 4.0|-
-|better...| mono|.net framework 4.5|9:5
-| not bad| Windows 2000|.net framework 4.5.1| 4:3
-| good| Windows vista+|.net framework 4.5.1+|16:9
+|Better| Ubuntu|mono|9:5
+| Not Bad| Windows 2000|.net framework 4.5.1| 4:3
+| Good| Windows vista+|.net framework 4.5.1+|16:9
