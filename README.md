@@ -6,7 +6,6 @@
 - [ ] Show which words you miss out the most often
 - [ ] Implement the file reading feature
 - [ ] Multiplayer?
-- [ ] Read CSV files
 - [ ] Add some interactive games + flashcards?
 - [ ] Implement Levenshtein Algorithm
 - [ ] Statistics
