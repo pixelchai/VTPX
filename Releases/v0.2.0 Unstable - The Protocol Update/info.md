@@ -18,3 +18,4 @@ Although this program is closed source - I feel generous so I'll give the first 
   #region TMP qqs
   #endregion
 ```
+It works by copying the txt file to your memory - but missing out alternate lines. It then creates the file "CICHICHICHCIHIPAHIH" by writing the memory onto the hard drive. It does this again but with an offset of 1 line. Thus you now have two files, one with answers and one with questions
