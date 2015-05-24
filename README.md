@@ -4,7 +4,7 @@
 ### Core CheckList:
 - [ ] Make an awesome UI
 - [ ] Show which words you miss out the most often
-- [ ] Implement the file reading feature
+- [x] Implement the file reading feature
 - [ ] Multiplayer?
 - [ ] Add some interactive games + flashcards?
 - [ ] Implement Levenshtein Algorithm
