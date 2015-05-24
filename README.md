@@ -1,5 +1,5 @@
 # VTPX
-## The virtual testing program - IN C SHARP
+## The vocab testing program - IN C SHARP
 
 ### Core CheckList:
 - [ ] Make an awesome UI
