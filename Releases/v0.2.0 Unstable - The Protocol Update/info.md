@@ -4,6 +4,11 @@
 ##### lines of code: 334
 ##### made in (time): 5hrs 47min
 ---
+###Changelog:
+- The Core completely redone
+- Question Protocols semi-working
+- Pretty colours in the console
+
 This update is an "unstable" update. It's basically a demo which visually shows you 
 how the new protocols work.
 ###The Protocols:
@@ -29,4 +34,20 @@ The filter will remove the special characters so it then becomes - "consilium co
 
 The answers filter is different, like I said. The answers' are formatted that each answer is seperated by a slash if they have more than one answer. The answers' filter is very similar to that of the questions yet not same.
 
-Now, the code has to split up the question/answer into an array. 
+Now, the code has to split up the question/answer into an array. The way they get cut up is also specific
+to wether or not it is a question or an answer. Questions get split up by their spaces. E.g:
+
+If the now properly formatted "consilium consilii n" was to be passed through the splitting protocol, it would
+end up like this:
+1. consilium
+2. consilii
+3. n
+
+And of course, the answers are split in a similar way, but based on the slashes.
+
+*Those* are the awesome protocols!
+The way they get cut up is usefull because later on, once I implement the input system (and thus make this program "stable")
+rather than the code checking that your input is EXACTLY the same as the answer, it shall only search your input to see if
+(in this case) it contains the words "consilium", "consilii" and "n"
+
+I shall soon implement an algorithm that checks if your LevenshteinDistance is greater than 0. (Basically - it will check if you have a typo) this shall be hard to implement but it'll be awesome!!
