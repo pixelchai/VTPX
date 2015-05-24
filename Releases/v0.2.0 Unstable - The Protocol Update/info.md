@@ -11,4 +11,10 @@ First of all, as soon as you launch the program, it will search for a file calle
 in the same directory as the program. If it fails to find a file with that exact name - you shall see a an Unhandled Exception Error message. I'll let you be able to specify the file later
 
 Having done that, it will now read the file and create two txt files in the same directory of the program called 
-"CICHICHICHCIHIPAHIH" and "LOGGOGOGOO"
+"CICHICHICHCIHIPAHIH" and "LOGGOGOGOO". If you open the file, you'll see that "CICHICHICHCIHIPAHIH" has all the questions and "LOGGOGOGOO" has all the answers. (This took me about 2 hours to make, by the way)
+
+Although this program is closed source - I feel generous so I'll give the first line and last line of code away:
+```C#
+  #region TMP qqs
+  #endregion
+```
