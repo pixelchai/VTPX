@@ -30,7 +30,7 @@
 ##Requirements
 || OS|  Framework|Screen Resolution
 | :---------| :-------------:|:---------:|:------:|
-| Minimum| MS-DOS| .net framework 4.0|-
-|Better| Ubuntu|mono|9:5
-| Not Bad| Windows 2000|.net framework 4.5.1| 4:3
-| Good| Windows vista+|.net framework 4.5.1+|16:9
+| Minimum| Ubuntu 12.x| mono| any
+|Better| Windows2000|.net framework 4.0|9:5
+| Not Bad| Windows xp|.net framework 4.5.1| 4:3
+| Good| Windows 7+|.net framework 4.5.1+|16:9
