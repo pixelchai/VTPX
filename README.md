@@ -18,6 +18,9 @@
 - [x] Interpret answers with not enough arguments
 - [ ] An update is available notification
 
+### Others Checklist:
+- [ ] Make compatible with .net framework 3.5 or lower
+
 ##Releases
 ```
  All the releases can be found here on GitHub.
