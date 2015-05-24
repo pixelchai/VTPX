@@ -7,16 +7,21 @@
 - [ ] Implement the file reading feature
 - [ ] Multiplayer?
 - [ ] Read CSV files
-- [ ] Add some interactive games
+- [ ] Add some interactive games + flashcards?
+- [ ] Implement Levenshtein Algorithm
+- [ ] Statistics
+- [x] Complete question protocols
+- [ ] Save progress
+- [ ] Support the importation of multiple test files
+- [ ] Choose how many words you want
 
 ### TODO Checklist:
 - [ ] Detect which words you missed out
 - [x] Detect which words you got wrong
-- [ ] Choose how many words you want
 - [x] Don't detect characters
 - [x] Make a basic marking system
 - [x] Interpret answers with not enough arguments
-- [ ] An update is available notification
+- [ ] "An update is available" notification
 
 ### Others Checklist:
 - [ ] Make compatible with .net framework 3.5 or lower
