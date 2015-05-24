@@ -14,6 +14,8 @@
 - [ ] Save progress
 - [ ] Support the importation of multiple test files
 - [ ] Choose how many words you want
+- [x] Generate a temporary file with JUST questions
+- [x] Generate a temporary file with JUST answers
 
 ### TODO Checklist:
 - [ ] Detect which words you missed out
