@@ -1,0 +1,154 @@
+pono, ponere, pusio, positum
+put/place/pitch camp
+supero, superare, superavi, superatum
+overcome
+gero, gerere, gessi, gestum
+wage war/wear
+capio, capere, cepi, captum
+capture
+ambulo, ambulare, ambulavi, ambulatum
+walk
+iubeo, iubere, iussi, iussum
+leave/depart
+festino, festinare, festinavi, festinatum
+hurry
+servo, servare, servavi, servatum
+save
+cupio, cupire, cupivi, cupitum
+want/desire
+venio, venire, veni, ventum
+come
+scio, scire, scivi, scitum
+know
+video, videre, vidi, visum
+see
+clamo, clamare, clavi, clamatum
+shout
+mitto, mittere, misi, missum
+send
+invenio, invenire, inveni, inventum
+find
+inquit, inquint
+he said/she said/it said/they said
+copiae, copiarum (f.pl)
+forces/troops
+Roma, Romae (f)
+Rome
+bellum, belli (n)
+war
+dux, ducis (m)
+leader
+navis, navis (f)
+ship
+mons, montis (m)
+mountain
+castra, castrorum (n.pl)
+camp
+consilium, consilii (n)
+plan
+pedes, peditis (m)
+foot soldier
+ager, agri (m)
+field
+servus, servi (m)
+slave
+exercitus, exercitus (m)
+army
+dies, diei (m)
+day
+annus, anni (m)
+year
+domus, domus (f)
+house/home
+senex, senis (m)
+old man
+imperator, imperatoris (m)
+general/emperor
+Romanus, Romana, Romanum 
+Roman
+primus, prima, primum
+first
+secundus, secunda, secundum
+second
+tertius, tertia, tertium
+third
+miser, misera, miserum
+miserable/wretched
+noster, nostera, nosterum
+our
+diligens, diligentis
+careful/diligent
+ingens, ingentis
+huge
+audax, audacis
+bold/daring
+tristis, tristis, triste
+sad/gloomy
+omnis, omnis, omne
+all
+autem
+however/but
+tamen
+however
+igitur
+therefore
+sed
+but
+iam
+now/already
+dum
+while (+ present tense)
+ita
+thus/in this way
+tum
+then
+quod
+because
+frustra
+in vain
+unus, una, unum
+one
+duo, duae, duo
+two
+tres, tres, tria
+three
+quattor
+four
+quinque
+five
+sex
+six
+septem
+seven
+octo
+eight
+novem
+nine
+decem
+ten
+in +acc
+into/onto
+in +abl
+in/on
+trans +acc
+across
+ad +acc
+to/towards
+a, ab +abl
+by/from
+e, ex +abl
+from/out of
+prope +acc
+near
+is, ea, id
+he/she/it/that
+me
+me/by me (acc + abl)
+te
+you/by you (acc + abl)
+mihi
+to me (dat)
+tibi
+to you (dat)
+nomine
+called/by name/named
