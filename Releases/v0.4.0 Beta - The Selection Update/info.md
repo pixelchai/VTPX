@@ -10,7 +10,7 @@
 ---
 
 In this update, I introduce a new window. To access it - first, make sure that
-the vocab file you wish to read is in the same directory as the program and click on the "choose vocab file..." button.
+the vocab file you wish to read is in the same directory as the program then click on the "choose vocab file..." button.
 Then, type a keyword in the search bar (NB: it's case sensitive for now) - your file, along with it's path should
 show up in the top section. Select it and close the settings window. Your vocab file should be now loaded and you should
 be able to see the words in the console.
