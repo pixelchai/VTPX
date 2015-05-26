@@ -2,7 +2,7 @@
 ## The vocab testing program - IN C SHARP
 
 ### Core CheckList:
-- [ ] Make an awesome UI
+- [X] Make an awesome UI
 - [ ] Show which words you miss out the most often
 - [x] Implement the file reading feature
 - [ ] Multiplayer?
@@ -24,13 +24,15 @@
 - [x] Interpret answers with not enough arguments
 - [ ] "An update is available" notification
 
-### Others Checklist:
+### Technical Checklist:
 - [ ] Make compatible with .net framework 3.5 or lower
+- [ ] Drop LINQ support
+- [ ] Link all .dll files (thus you don't need to have .net framework)
  
 ##Requirements
 || OS|  Framework|Screen Resolution
-| :---------| :-------------:|:---------:|:------:|
-| Minimum| Ubuntu 12.x| mono| any
+| :---| :---:|:---:|:---:|
+| Minimum| Ubuntu 12.x| mono|any
 |Better| Windows2000|.net framework 4.0|9:5
 | Not Bad| Windows xp|.net framework 4.5.1| 4:3
 | Good| Windows 7+|.net framework 4.5.1+|16:9 or 16:10
