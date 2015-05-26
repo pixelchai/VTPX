@@ -26,15 +26,6 @@
 
 ### Others Checklist:
 - [ ] Make compatible with .net framework 3.5 or lower
-
-##Releases
-```
- All the releases can be found here on GitHub.
- "Unstable" means that the release is not fully done,
- you can still use it if you want - even if it may not work
- "Stable" means that the release is fully done :)
- I recommend using the latest release
- ```
  
 ##Requirements
 || OS|  Framework|Screen Resolution
