@@ -14,6 +14,7 @@
 - [ ] Choose how many words you want
 - [x] Generate a temporary file with JUST questions
 - [x] Generate a temporary file with JUST answers
+- [x] Search for vocab files rather than navigating to them
 - [ ] "An update is available" notification
 
 ### Minor Checklist:
