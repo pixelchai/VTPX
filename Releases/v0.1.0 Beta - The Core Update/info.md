@@ -1,4 +1,4 @@
-# v0.1 Unstable - The Core Update
+# v0.1 Beta - The Core Update
 ### This is the first ever version of VTPX!
 ---
 ##### lines of code: 247
