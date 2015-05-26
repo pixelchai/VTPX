@@ -1,6 +1,6 @@
 #v0.3.0 Beta - The UI Update
-##### Lines of Code: 
-##### Time taken:    
+##### Lines of Code: 424
+##### Time taken:    3 hours
 
 ----
 
