@@ -1,4 +1,4 @@
-# v0.2.0 Unstable - The Protocol Update
+# v0.2.0 Beta - The Protocol Update
 #### This Update - I completely remake the core AND indroduce not 1 but 18 awesome protocols
 ---
 ##### lines of code: 334
@@ -9,7 +9,7 @@
 - Question Protocols semi-working
 - Pretty colours in the console
 
-This update is an "unstable" update. It's basically a demo which visually shows you 
+This update is an "Beta" update. It's basically a demo which visually shows you 
 how the new protocols work.
 
 ---
