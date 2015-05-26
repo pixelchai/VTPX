@@ -26,6 +26,8 @@
 - [x] Don't detect characters
 - [x] Make a basic marking system
 - [x] Compute answers with not enough arguments
+- [x] You can write multiple answers in one answer
+- [ ] Fix bug in which you HAVE to write multiple answers in one answer
 
 ### Technical Checklist:
 - [ ] Make compatible with .net framework 3.5 or lower
