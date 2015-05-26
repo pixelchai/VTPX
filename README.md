@@ -2,27 +2,29 @@
 ## The vocab testing program - IN C SHARP
 
 ### Core CheckList:
-- [X] Make an awesome UI
-- [ ] Show which words you miss out the most often
+- [x] Make an awesome UI
 - [x] Implement the file reading feature
-- [ ] Multiplayer?
 - [ ] Add some interactive games + flashcards?
 - [ ] Implement Levenshtein Algorithm
 - [ ] Statistics
 - [x] Complete question protocols
+- [ ] Port to Android
 - [ ] Save progress
 - [ ] Support the importation of multiple test files
 - [ ] Choose how many words you want
 - [x] Generate a temporary file with JUST questions
 - [x] Generate a temporary file with JUST answers
+- [ ] "An update is available" notification
 
-### TODO Checklist:
+### Minor Checklist:
+- [ ] Make the vocab file search show all .txt files in dir
+- [x] Do not need to type entire name for vocab file search
+- [ ] Vocab file search does not need to be case - sensitive
 - [ ] Detect which words you missed out
 - [x] Detect which words you got wrong
 - [x] Don't detect characters
 - [x] Make a basic marking system
-- [x] Interpret answers with not enough arguments
-- [ ] "An update is available" notification
+- [x] Compute answers with not enough arguments
 
 ### Technical Checklist:
 - [ ] Make compatible with .net framework 3.5 or lower
