@@ -27,7 +27,7 @@
 ### Technical Checklist:
 - [ ] Make compatible with .net framework 3.5 or lower
 - [ ] Drop LINQ support
-- [ ] Link all .dll files (thus you don't need to have .net framework)
+- [ ] Implement metro framework or similar
  
 ##Requirements
 || OS|  Framework|Screen Resolution
