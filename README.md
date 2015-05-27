@@ -2,7 +2,8 @@
 ## The vocab testing program - IN C SHARP
 
 ### Core CheckList:
-- [x] Make an awesome UI
+- [x] Do settings UI
+- [ ] Give the console some UI
 - [x] Implement the file reading feature
 - [ ] Add some interactive games + flashcards?
 - [ ] Implement Levenshtein Algorithm
