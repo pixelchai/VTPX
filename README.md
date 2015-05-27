@@ -28,6 +28,7 @@
 - [x] Compute answers with not enough arguments
 - [x] You can write multiple answers in one answer
 - [ ] Fix bug in which you HAVE to write multiple answers in one answer
+- [ ] Huge bug in which you can answer the same thing multiple times and would still be seen as correct
 
 ### Technical Checklist:
 - [ ] Make compatible with .net framework 3.5 or lower
