@@ -1,0 +1,74 @@
+supero, superare, superavi, superatum
+gero, gerere, gessi, gestum
+ambulo, ambulare, ambulavi, ambulatum
+iubeo, iubere, iussi, iussum
+discedo, discedere, discessi, discessum
+festino, festinare, festinavi, festinatum
+servo, servare, servavi, servatum
+cupio, cupire, cupivi, cupitum
+venio, venire, veni, ventum
+scio, scire, scivi, scitum
+video, videre, vidi, visum
+clamo, clamare, clavi, clamatum
+mitto, mittere, misi, missum
+invenio, invenire, inveni, inventum
+inquit, inquint
+copiae, copiarum (f.pl)
+Roma, Romae (f)
+bellum, belli (n)
+dux, ducis (m)
+navis, navis (f)
+mons, montis (m)
+castra, castrorum (n.pl)
+consilium, consilii (n)
+pedes, peditis (m)
+ager, agri (m)
+servus, servi (m)
+exercitus, exercitus (m)
+dies, diei (m)
+annus, anni (m)
+domus, domus (f)
+senex, senis (m)
+imperator, imperatoris (m)
+primus, prima, primum
+secundus, secunda, secundum
+miser, misera, miserum
+noster, nostera, nosterum
+diligens, diligentis
+ingens, ingentis
+audax, audacis
+tristis, tristis, triste
+omnis, omnis, omne
+autem
+tamen
+igitur
+sed
+iam
+dum
+ita
+tum
+quod
+frustra
+unus, una, unum
+duo, duae, duo
+tres, tres, tria
+quattor
+quinque
+sex
+septem
+octo
+novem
+decem
+in +acc
+in +abl
+trans +acc
+ad +acc
+a, ab +abl
+e, ex +abl
+prope +acc
+is, ea, id
+me
+te
+mihi
+tibi
+nomine
