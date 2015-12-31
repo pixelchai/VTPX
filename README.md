@@ -4,8 +4,8 @@
 
 VTPX is a lightweight program to help you learn your vocab!
 
-![](http://i.snag.gy/4qQM8.jpg)
-<small>lightweight</small>
+![Super low overhead](http://i.snag.gy/4qQM8.jpg)<br>
+<small>Super low overhead -- less than 0.01% CPU on PC: 1.74GB RAM, 2.3Ghz clock speed</small>
 
 Fustrate no longer about typos, punctuation, spelling and formatting. Our innovative algorithm has got you covered!<br>
 Get ready to learn vocab with the most elegant platform!
